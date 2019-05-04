@@ -1,2 +1,3 @@
 # chatbot
-creating a chat bot using python language
+Simple chatbot using python language 
+
